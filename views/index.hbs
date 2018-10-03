@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="/public/stylesheets/style.css">
+    <title>Temporizador</title>
+</head>
+<body onload="startTime()">
+    <h1 class="center title">Temporizador Plukke</h1>
+        <div class="center box1">
+            <h3>Cantidad</h3>
+            <p style="color: black;">Poner horas: minutos: segundos</p>
+            <input type="text" id="time" placeholder="H:M:S" />
+            <input type="button" id="init" value="Inicio" />
+        </div>
+        <br>
+    <div id="count" class="box"></div>
+    <div class="center">
+        <br>
+        <button id="int" click="clearInt()">Clear</button>
+        
+    </div>
+    <h4 class="center">Hora Actual</h4>
+    <div class="center" id="txt">
+    </div>
+    
+</body>
+<script src="/public/javascripts/script.js"></script>
+
+</html>
