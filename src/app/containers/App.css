@@ -1,0 +1,40 @@
+.HomeLayout {
+  display: grid;
+  grid-template-rows:  150px 150;
+  justify-content: center;
+  align-content: center;
+  min-height: 100vh;
+}
+.HomeLayout form {
+  display:grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 70px;
+}
+.boton{
+  grid-column: span 2;
+}
+.input {
+  background: #f2f2f2;
+  font-size: 18px;
+  font-family: Arial;
+  width: 90%;
+  padding: 3% 3%;
+  border-radius: 10px;
+  border:none;
+  outline: 0;
+  transition: .2s;
+  box-shadow: 2px 2px 5px rgba(0,0,0,.2);
+}
+
+.input:focus {
+  box-shadow: 0 0 10px rgba(0,0,0,.5);
+}
+.contador {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+ 
+}
+.contador h1 {
+  color: #f2f2f2;
+  text-align: center;
+}
