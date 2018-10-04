@@ -14,6 +14,10 @@ Test de reclutamiento desarrolladores Frontend y/o Fullstack
 * Incluir un botón que esté habilitado mientras el temporizador está vigente y mostar una alerta, mensaje o modal de confirmación y se deshabilita cuando el temporizador haya terminado.
 * Incluir creatividad, estilos y responsividad (opcional) a la solución. (🚫no utilizar bootstrap).
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YiEwQoNkYFY
+" target="_blank"><img src="http://img.youtube.com/vi/YiEwQoNkYFY/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ![Mockup](https://res.cloudinary.com/dd7zufany/image/upload/v1538507143/plukke_test_1.jpg "Test temporizador")
 
 #### Uso obligatorio de:
