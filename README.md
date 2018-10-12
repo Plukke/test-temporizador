@@ -24,7 +24,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 #### Uso obligatorio de:
 * html
 * css (scss, sass, styled-components, etc)
-* javascript (Si sabes utilizar ReactJS puedes utilizarlo)
+* javascript (Si sabes utilizar ReactJS debes utilizarlo)
 
 #### Puedes utilizar las siguientes librerías:
 * moment
