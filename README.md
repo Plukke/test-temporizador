@@ -9,8 +9,7 @@ Test de reclutamiento desarrolladores Frontend y/o Fullstack
 * Horas o minutos - **select**
 * Cantidad - **input**
 * La solución se probará utilizando los siguientes argumentos: 1 minuto, 15 minutos, 62 minutos y 25 horas.
-* Al iniciar el temporizador el contador debe iniciar con respecto a la hora actual del navegador.
-* El contador debe persistir sin importar si la página se recarga. (hint: Utilizar cache. Almacenar tiempo limite.)
+* El contador debe persistir sin importar si la página se recarga. (hint: Utilizar cache. Almacenar tiempo limite o la hora a la que se inició)
 * Incluir un botón que esté habilitado mientras el temporizador está vigente y mostar una alerta, mensaje o modal de confirmación y se deshabilita cuando el temporizador haya terminado.
 * Incluir creatividad, estilos y responsividad (opcional) a la solución. (🚫no utilizar bootstrap).
 
